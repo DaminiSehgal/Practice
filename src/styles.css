@@ -1,0 +1,9 @@
+body {
+  background-color: rgb(118, 206, 118);
+}
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: rgb(243, 243, 126);
+  padding: 10px;
+}
